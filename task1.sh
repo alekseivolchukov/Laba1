@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls ~/ -a)>result.txt
+echo $(ls ~/ -a)>resultat.txt
